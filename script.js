@@ -19,7 +19,7 @@ const questions = [
   { id: "q14", content: "What childhood memory do I avoid thinking about? Why?" },
   { id: "q15", content: "What brings me joy?" },
   { id: "q16", content: "Make a list of the things you love. It could be anything big or small. Write as much as you can." },
-  { id: "q17", content: "When do I fell the happiest in my own skin?" },
+  { id: "q17", content: "When do I feel the happiest in my own skin?" },
   { id: "q18", content: "What does growing older mean to me?" },
   { id: "q12", content: "What scares you?" },
   { id: "q13", content: "Write down the words you need to hear right now." },
